@@ -1,8 +1,10 @@
-[# Advanced Software Architecture](https://github.com/SDU-SE2023-G6/Advanced_Software_Architecture)
-[# Interactive Systems](https://github.com/SDU-SE2023-G6/Interactive-Systems)
-[# Scientific Methods](https://github.com/SDU-SE2023-G6/Scientific_Methods)
+# [Advanced Software Architecture](https://github.com/SDU-SE2023-G6/Advanced_Software_Architecture)
 
-[# Project Scalable Systems](https://github.com/SDU-SE2023-G6/semester-project-scalable-systems)
+# [Interactive Systems](https://github.com/SDU-SE2023-G6/Interactive-Systems)
+
+# [Scientific Methods](https://github.com/SDU-SE2023-G6/Scientific_Methods)
+
+# [Project Scalable Systems](https://github.com/SDU-SE2023-G6/semester-project-scalable-systems)
 
 <!--
 
